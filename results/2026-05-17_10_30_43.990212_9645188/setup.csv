@@ -1,0 +1,10 @@
+,0
+seed,42
+device,
+flag,none
+dataset,amazon-beauty-custom
+sbert,sentence-transformers/all-mpnet-base-v2
+max_seq_length,0
+prefix,
+image_model,none
+cuda_or_cpu,cuda
